@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\C\u002B\u002B guide\\Latihan C\u002B\u002B rutin 21 april 2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{387D16D6-CD9D-4B2A-BB9A-CC07AAACA5F6}|Latihan C\u002B\u002B rutin 21 april 2025.vcxproj|C:\\Users\\HP\\source\\C\u002B\u002B guide\\Latihan C\u002B\u002B rutin 21 april 2025\\rutin 21 april.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{387D16D6-CD9D-4B2A-BB9A-CC07AAACA5F6}|Latihan C\u002B\u002B rutin 21 april 2025.vcxproj|solutionrelative:rutin 21 april.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "rutin 21 april.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\C\u002B\u002B guide\\Latihan C\u002B\u002B rutin 21 april 2025\\rutin 21 april.cpp",
+              "RelativeDocumentMoniker": "rutin 21 april.cpp",
+              "ToolTip": "C:\\Users\\HP\\source\\C\u002B\u002B guide\\Latihan C\u002B\u002B rutin 21 april 2025\\rutin 21 april.cpp*",
+              "RelativeToolTip": "rutin 21 april.cpp*",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-21T14:21:52.266Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
